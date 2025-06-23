@@ -1,0 +1,31 @@
+.vbox {
+
+   -fx-background-color: #b6d3e5;
+   
+}
+
+
+.button {
+
+-fx-background-color: #00698F;
+-fx-text-fill: white;
+-fx-background-radius: 8px;
+}
+
+
+.button:hover{
+
+   -fx-opacity : 0.4;
+
+}
+
+.label{
+   -fx-font-weight: bold;
+
+}
+
+
+.anchor-pane{
+      -fx-background-color: #00698F;
+
+}

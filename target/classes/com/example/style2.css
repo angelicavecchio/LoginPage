@@ -1,0 +1,21 @@
+.archor-pane{
+    -fx-background-color: #000156;
+
+    
+}
+
+.button {
+
+-fx-background-color: #0088b9;
+-fx-text-fill: white;
+-fx-background-radius: 8px;
+}
+
+.vbox{
+        -fx-background-color: #00000077;
+
+}
+
+.grid-pane{
+   -fx-border-color: #f691d8; 
+}
