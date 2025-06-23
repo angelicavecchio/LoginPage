@@ -1,0 +1,18 @@
+# IDEs and build
+.idea/
+*.iml
+out/
+target/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Java compiled files
+*.class
+*.jar
+
+# Configs
+config.properties
+.env
